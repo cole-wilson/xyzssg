@@ -1,0 +1,9 @@
+[static]
+dir = "static"
+
+[[collection]]
+dir = "_tests"
+path = "/tests/1/{name}"
+[collection.defaults]
+layout = "test"
+a = NaN
